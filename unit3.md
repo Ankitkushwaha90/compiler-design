@@ -231,3 +231,18 @@ L2: S2; goto Lend
 Ld: Sd
 Lend:
 ```
+## ✅ Summary
+
+| **Concept**                     | **Purpose**                                   |
+|----------------------------------|-----------------------------------------------|
+| **SDT & Attributes**             | Connect grammar with semantic rules           |
+| **Parse Tree vs Syntax Tree**    | Full derivation vs Abstract representation    |
+| **TAC / Quadruples / Triples**   | Intermediate representations for translation  |
+| **Postfix Notation**            | Simple arithmetic evaluation                  |
+| **Flow Control Translation**    | Generate labels and jumps                     |
+| **Procedure/Array Translation**  | Model memory and calling                      |
+
+---
+
+Let me know if you want examples implemented using tools like **LEX/YACC** or a diagram for a **syntax tree** or **TAC generation**!
+
